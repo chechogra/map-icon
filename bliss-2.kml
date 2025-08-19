@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="stylishPin">
+      <IconStyle>
+        <Icon>
+          <href>https://cdn.builder.io/api/v1/image/assets%2F1d92d8609c53480caa72919ffb6bff62%2F38a5ccc50b38443e871722d16f2405c9</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+    <Placemark>
+      <name>Bliss</name>
+      <styleUrl>#stylishPin</styleUrl>
+      <Point>
+        <coordinates>-75.592541,6.237509,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
